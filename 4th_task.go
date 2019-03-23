@@ -39,7 +39,6 @@ func main() {
 			file.WriteString(" \r\n")
 			i++
 		}
-
 	}
 	fmt.Println("Write in file DONE")
 }
