@@ -1,0 +1,35 @@
+body_bytes_sent: 525
+cluster_name: minikube
+host: kube.local
+http_referrer:
+  content: |-
+    Orwe
+    canauto
+    convertlinebreaks
+    tosavespace
+  json:
+  - rigid
+  - betterfordatainterchange
+  object:
+    array:
+    - null_value: null
+    - boolean: true
+    - integer: 1
+    key: value
+  paragraph: |
+    Blanklinesdenote
+    paragraphbreaks
+  yaml:
+  - slimandflexible
+  - betterforconfiguration
+http_user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+  like Gecko) Chrome/72.0.3626.121 Safari/537.36
+http_x_forwarded_for: ""
+remote_addr: 172.17.0.1
+request: GET / HTTP/1.1
+request_method: GET
+request_time: 0.004
+response_status: 200
+type: nginx
+upstream_addr: 10.99.217.170:443
+upstream_cache_status: ""
